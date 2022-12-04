@@ -1,0 +1,3 @@
+prometheus-grafana/prometheus/config/query_log_file.log
+prometheus-grafana/prometheus/volume/
+prometheus-grafana/grafana/volume/
